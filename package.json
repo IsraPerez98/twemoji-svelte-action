@@ -2,7 +2,8 @@
   "name": "twemoji-svelte-action",
   "version": "1.0.0",
   "description": "Svelte wrapper for twemoji using actions",
-  "main": " ",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
