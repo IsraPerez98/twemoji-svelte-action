@@ -1,4 +1,4 @@
-import { default as twemojify } from "twemoji";
+import { default as twemojify } from 'twemoji';
 import { afterUpdate } from 'svelte';
 
 type TwemojifyOptions = TwemojiOptions | ParseCallback;
