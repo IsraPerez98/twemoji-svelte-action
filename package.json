@@ -51,5 +51,8 @@
     "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "twemoji": "^14.0.2"
   }
 }
