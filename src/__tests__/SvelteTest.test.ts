@@ -65,7 +65,7 @@ test('Renders message with tweemoji options', async () => {
         ext: '.svg',
         folder: 'svg',
         className: 'custom-emoji',
-      }
+      },
     },
   });
 

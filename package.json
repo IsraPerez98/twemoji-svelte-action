@@ -1,6 +1,6 @@
 {
   "name": "twemoji-svelte-action",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Svelte wrapper for twemoji using actions",
   "main": "lib/index.js",
   "module": "lib/index.js",
